@@ -5,11 +5,9 @@ import threading
 from pynput import mouse, keyboard
 from pystyle import *
 
-# Clear screen and set title
 os.system("cls")
 os.system("title ")
 
-# Color constants
 RED = '\033[1;91m'
 WHITE = '\033[0m'
 BLUE = '\033[1;34m'
