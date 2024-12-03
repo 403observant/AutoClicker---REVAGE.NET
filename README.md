@@ -16,4 +16,5 @@ A customizable auto-clicker script designed for Minecraft. It allows you to auto
 
 1. Clone this repository to your local machine:
    ```bash
+   
    https://github.com/403observant/AutoClicker---REVAGE.NET.git
